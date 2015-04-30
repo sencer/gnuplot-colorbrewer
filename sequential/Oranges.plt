@@ -5,14 +5,14 @@
 # author: Anna Schneider
 
 # line styles
-set style line 1 lc rgb '#FFF5EB' # very light orange
-set style line 2 lc rgb '#FEE6CE' # 
-set style line 3 lc rgb '#FDD0A2' # 
-set style line 4 lc rgb '#FDAE6B' # light orange
-set style line 5 lc rgb '#FD8D3C' # 
-set style line 6 lc rgb '#F16913' # medium orange
-set style line 7 lc rgb '#D94801' #
-set style line 8 lc rgb '#8C2D04' # dark orange
+set linetype 1 lc rgb '#FFF5EB' # very light orange
+set linetype 2 lc rgb '#FEE6CE' # 
+set linetype 3 lc rgb '#FDD0A2' # 
+set linetype 4 lc rgb '#FDAE6B' # light orange
+set linetype 5 lc rgb '#FD8D3C' # 
+set linetype 6 lc rgb '#F16913' # medium orange
+set linetype 7 lc rgb '#D94801' #
+set linetype 8 lc rgb '#8C2D04' # dark orange
 
 # palette
 set palette defined ( 0 '#FFF5EB',\

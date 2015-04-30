@@ -5,14 +5,14 @@
 # author: Anna Schneider
 
 # line styles
-set style line 1 lc rgb '#F7F4F9' # very light purple-red
-set style line 2 lc rgb '#E7E1EF' # 
-set style line 3 lc rgb '#D4B9DA' # 
-set style line 4 lc rgb '#C994C7' # light purple-red
-set style line 5 lc rgb '#DF65B0' # 
-set style line 6 lc rgb '#E7298A' # medium purple-red
-set style line 7 lc rgb '#CE1256' #
-set style line 8 lc rgb '#91003F' # dark purple-red
+set linetype 1 lc rgb '#F7F4F9' # very light purple-red
+set linetype 2 lc rgb '#E7E1EF' # 
+set linetype 3 lc rgb '#D4B9DA' # 
+set linetype 4 lc rgb '#C994C7' # light purple-red
+set linetype 5 lc rgb '#DF65B0' # 
+set linetype 6 lc rgb '#E7298A' # medium purple-red
+set linetype 7 lc rgb '#CE1256' #
+set linetype 8 lc rgb '#91003F' # dark purple-red
 
 # palette
 set palette defined ( 0 '#F7F4F9',\
